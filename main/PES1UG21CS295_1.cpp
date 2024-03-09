@@ -1,7 +1,7 @@
 # include <iostream>
 
 int main() {
-		std::cout << "Hello world! inside pipeline" << std::end;
+		std::cout << "Hello world! inside pipeline" << std::endl;
 		return 0;
 }
 
