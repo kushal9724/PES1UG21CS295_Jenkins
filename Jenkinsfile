@@ -32,7 +32,7 @@ pipeline {
         
         stage('Deploy') {
             steps {
-                // Your deployment steps here
+                echo 'Deployed'
             }
             post {
                 failure {
